@@ -3,7 +3,7 @@ Time Series Analysis of Vehicular Volume
 
 Project is derived from a 24-hr McKinsey Hackathon held 19 November 2017. 
 https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-hackathon/?utm_source=sendinblue&utm_campaign=McKinsey_Hackathon__Go_live&utm_medium=email
-Due to family obligations, I did not submit a solution but analyzed the problem on my own time.  Still a work in progress.
+<br>Due to family obligations, I did not submit a solution but analyzed the problem on my own time.  Still a work in progress.
 
 Scenario: You are working with the government to transform your city into a smart city. 
 The vision is to convert it into a digital and intelligent city to improve the efficiency of services for the citizens. 
